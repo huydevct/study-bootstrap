@@ -40,6 +40,30 @@ bootstrap 4
                       Sizing
                       Nesting
                       Vertical variation
+    
+    Cards: Content types: Body
+                          Titles, text, and links
+                          Images
+                          List groups
+                          Kitchen sink
+                          Header and footer
+           Sizing: Using grid markup
+                   Using utilities
+                   Using custom CSS
+                   Text alignment
+                   Navigation
+           Images: Image caps
+                   Image overlays
+                   Horizontal
+           Card styles: Background and color
+                        Border
+                        Mixins utilities
+           Card layout: Card groups
+                        Card decks
+                        Grid cards
+           Card columns
+
+
 
 
         
