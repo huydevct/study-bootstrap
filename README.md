@@ -63,6 +63,8 @@ bootstrap 4
                         Grid cards
            Card columns
 
+More inf => read on bootstrap 4
+src = https://getbootstrap.com/docs/4.5/
 
 
 
